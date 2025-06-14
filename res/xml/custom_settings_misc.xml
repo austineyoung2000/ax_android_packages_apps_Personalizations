@@ -58,10 +58,17 @@
         android:fragment="com.custom.settings.fragments.Spoof" />
 
     <Preference
-        android:key="Statusbar"
+        android:key="statusbar"
         android:icon="@drawable/ic_settings_statusbar"
         android:title="@string/statusbar_title"
         android:summary="@string/statusbar_summary"
         android:fragment="com.custom.settings.fragments.StatusBar"/>
+
+    <Preference
+        android:key="quicksettings"
+        android:icon="@drawable/ic_settings_quicksettings"
+        android:title="@string/quicksettings_title"
+        android:summary="@string/misc_title"
+        android:fragment="com.custom.settings.fragments.QuickSettings"/>
 
 </PreferenceScreen>
