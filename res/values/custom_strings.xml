@@ -2145,7 +2145,7 @@
 
     <!-- Status bar padding -->
     <string name="statusbar_summary">StatusBar Settings</string>
-    <string name="statusbar_padding">Status bar padding</string>
+    <string name="statusbar_padding">Statusbar padding</string>
     <string name="statusbar_extra_padding_category">Extra padding</string>
     <string name="statusbar_extra_padding_start_title">Start padding</string>
     <string name="statusbar_extra_padding_top_title">Top padding</string>
